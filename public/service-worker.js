@@ -4,7 +4,7 @@ const DATA_CACHE_NAME = 'data-cache-v1';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
-  'mainfest.json',
+  '/manifest.json',
   '/js/index.js',
   '/js/idb.js',
   '/icons/icon-72x72.png',
@@ -15,7 +15,7 @@ const FILES_TO_CACHE = [
   '/icons/icon-192x192.png',
   '/icons/icon-384x384.png',
   '/icons/icon-512x512.png',
-  '/styles/styles.css'
+  '/css/styles.css'
 ];
 
 // Install the service worker
