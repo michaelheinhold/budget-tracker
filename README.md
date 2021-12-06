@@ -19,6 +19,10 @@
   ## Usage
   Navigate to the url and start adding or subtracting funds!
   
+  ### Screenshot of website
+  ![Screenshot (17)](https://user-images.githubusercontent.com/86388353/144899638-f14ef89a-419f-4df3-b09a-5790626d2b7f.png)
+
+  
   ### Deployed URL
   [https://pacific-earth-05931.herokuapp.com/](https://pacific-earth-05931.herokuapp.com/)
 
